@@ -1,6 +1,12 @@
 body {
-font-family: arial, verdana, sans-serif;
+font-family: arial, sans-serif;
 font-size: 2em;
+}
+
+h1 {
+  font-family: arial, sans-serif;
+  font-size: 1em;
+
 }
 
 a:link {color: green;}
@@ -9,6 +15,12 @@ a:hover {color: red;}
 
 a {
   text-decoration: underline;
-  font-family: arial, verdana, sans-serif;
+  font-family: arial, sans-serif;
   font-size: 70pt;
+}
+
+
+#conteneur {
+  display: flex;
+  flex-wrap: wrap;
 }
