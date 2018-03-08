@@ -1,0 +1,14 @@
+body {
+font-family: arial, verdana, sans-serif;
+font-size: 2em;
+}
+
+a:link {color: green;}
+a:visited {color: green;}
+a:hover {color: red;}
+
+a {
+  text-decoration: underline;
+  font-family: arial, verdana, sans-serif;
+  font-size: 70pt;
+}
